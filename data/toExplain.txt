@@ -1,0 +1,13 @@
+sample_data_1 = [{'age': 30, 
+                  'sex': 1.0, 
+                  'bmi': 37.8, 
+                  'children': 2.0, 
+                  'smoker': 1.0, 
+                  'region': 3.0}]
+
+sample_data_2 = [{'age': 30, 
+                  'sex': 1.0, 
+                  'bmi': 37.8, 
+                  'children': 2.0, 
+                  'smoker': 0.0, 
+                  'region': 3.0}]
