@@ -6,7 +6,7 @@ The main goal is to use LIME algorithm to explain the predictions performed by a
 
 /notebooks folder contains the initial data analysis that was performed in jupyter notebook
 
-challenge.pptx provides the analysis of the challenge
+challenge.pptx provides the analysis of the challenge and contains a video with the app demo
 
 app.py is a streamlit application that was created to address the challenge in a more appealing way
 
