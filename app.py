@@ -17,8 +17,7 @@ st.title("Understand your black box algorithm with LIME") # corresponds to H1 he
  ### app explanaiton
 st.write("This app was built to provide a platform to explain the prediction performed by a linear regression model.\
          LIME (Local interpretable model-agnostic explanations) algorithm explains a black-box model by explaining the relationship between the input and the model’s prediction.\
-             The user has to provide the training data set, trained BlackBox model and the a sample(user input) to be explained by LIME.\
-                 Dataset used to create the streamlit app is related to health insurance data and the main goal of the trained model was to predict the insurance charges.\
+             The user has to provide the training data set, trained BlackBox model and one sample(corresponding to user input) to be explained by LIME.\
                      More information about LIME can be found in https://arxiv.org/abs/1602.04938.")
 
 ###side bar creation
