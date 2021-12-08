@@ -1,6 +1,7 @@
 # challenge_jobapplication
 This repository was created to address a challenge for a job application. 
 The main goal is to use LIME algorithm to explain the predictions performed by a linear regression model.
+Dataset used to create the streamlit app is related to health insurance data and the main goal of the trained model was to predict the insurance charges.
 
 /data folder contains the data provided by the recruiter
 
